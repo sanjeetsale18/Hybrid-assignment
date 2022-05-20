@@ -1,0 +1,11 @@
+.title {
+  font-weight: medium;
+  font-size: 20px;
+  color: Orange;
+}
+
+.container {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding-left: 40px;
+}
